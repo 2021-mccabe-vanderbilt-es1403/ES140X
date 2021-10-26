@@ -16,5 +16,6 @@ dependencies:
   - pathlib
   - ipywidgets
   - hoomd
+  - mbuild  
   - pip:
     - chempy
