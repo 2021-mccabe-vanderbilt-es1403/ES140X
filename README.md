@@ -5,8 +5,6 @@ Fall 2020
 **Instructors**<br/>
 Dr. Clare M<sup>c</sup>Cabe  
 Email: c.mccabe@vanderbilt.edu   
-Dr. Kane Jennings  
-Email: kane.g.jennings@vanderbilt.edu
 
 
 **TA**<br/> 
@@ -14,19 +12,19 @@ Cal Craven
 Email: nicholas.c.craven@vanderbilt.edu
 
 **Office Hours** <br/> 
-TBD and by appointment  
-Zoom can be found in Brightspace
+TBD and by email appointment  
+Zoom links can be found in Brightspace
 <br />
 <br /> 
 
 ## [Before coming to the first class](instructions/create_github_account.md)
 
-Students should create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in the header. 
+Students should create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in this header. 
 <br/>
 
 
-## Set up your computers
-Complete these instructions after your first class (10/28). <br/>
+## Set up your computers (Before the second class)
+Complete these instructions after your first class and before your second class (11/01-11/03). <br/>
 [Mac Users](instructions/set_up_your_computers_MacOS.md) <br/>
 [Windows and Linux Users](instructions/set_up_your_computers_Windows.md) <br/>
 
@@ -34,17 +32,17 @@ Complete these instructions after your first class (10/28). <br/>
 
 To participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
 The Anaconda environment will help manage all the softwares used in this course.
-The detailed instructions for those can be found by following the link in the header.
+The detailed instructions for those can be found by following the link for what type of computer you will be using.
 
 ## Install Etomica
-Complete these instructions after your first class (10/28). <br/>
+Complete these instructions after your first class and before your second class (11/01-11/03). <br/>
 [Mac Users](instructions/install_etomica_MacOS.md) <br/>
 [Windows and Linux Users](instructions/install_etomica_Windows.md) <br/>
 
 We will run some simulations using a learning module called etomica developed from the University of Buffalo. Here is a link to the website if you're curious about what it can do http://www.etomica.org/app/modules/
 
 ## Install VMD
-Complete these instructions after your first class (10/28). <br/>
+Complete these instructions after your first class and before your second class (11/01-11/03). <br/>
 [Mac Users](instructions/install_VMD_MacOS.md) <br/>
 [Windows and Linux Users](instructions/install_VMD_Windows.md) <br/>
 
@@ -54,27 +52,29 @@ VMD is a molecular visualization software. We can use it to look at simulation d
 
 The link to this course's Zoom classrooms can be found in Brightspace.
 
-|                       | Date | Lecture | HW | HW Due |
+|                       | Date | Lecture | HW Assigned | HW Due |
 | :--------------- |:-------:|:----------:|:------:|:-----------:|
-| **Week 1**     |         |**Introduction**|         |               |
-| Class 1          | 10/28 | Intro to Jupyter notebook and Python |    |               |
-| Class 2          | 10/30 | Python practices and examples|  HW1     |               |
-| **Week 2**     |         | **Intro to Thermodynamics**|         |               |
-| Class 3          | 11/02 | Ideal gas law |         |               |
-| Class 4          | 11/04 | Non-ideal gases |         |               |
-| Class 5          | 11/06 | Solids, liquids, and gases  | HW2 | HW1 |
-| **Week 3**     |         | **In-person classes** |         |               | 
-| Class 6          | 11/09 |              |         |               |
-| Class 7          | 11/11 |              |         |               |
-| Class 8          | 11/13 |              |  HW3       |    HW2     |
-| **Week 4**     |         | **Intro to Reaction Engineering** |         |               | 
-| Class 9          | 11/16 | Kinetics |         |               |
-| Class 10         | 11/18 | Reaction rates and equilibria |         |               |
-| Class 11         | 11/20 | Multiple reactions |     HW4    |       HW3        |
+| **Week 1**     |         | **Introduction** |         |               |
+| Class 1          | 11/01 | Intro to Jupyter notebook and Python |    |               |
+| Class 2          | 11/03 | Bug Fixing Day |       |               |
+| Class 3          | 11/05 | Python practices and examples |  HW1     |               |
+| **Week 2**     |         | **Intro to Thermodynamics** |         |               |
+| No Class         | 11/08 | Ideal gas law |         |               |
+| Class 4          | 11/10 | Non-ideal gases |         |               |
+| Class 5          | 11/12 | Solids, liquids, and gases  | HW2 | HW1 |
+| **Week 3**     |         | **Intro to Reaction Engineering** |         |               | 
+| Class 6          | 11/15 | Kinetics |         |               |
+| Class 7          | 11/17 | Reaction rates and equilibria |         |               |
+| Class 8          | 11/19 | Multiple Reactions |  HW3       |    HW2     |
+| **NO CLASSES THANKSGIVING BREAK** |
+| **Week 4**     |         | **Intro to Mass and Energy Transport** |         |               | 
+| Class 9          | 11/29 | Energy Transport |         |               |
+| Class 10         | 12/01 | Mass Transport |         |               |
+| Class 11         | 12/03 | Transport 3 |     HW4    |       HW3        |
 | **Week 5**     |         | **Applications** |         |               |
-| Class 12         | 11/30 | Chemical engineering student panel |         |               |
-| Class 13         | 12/02 | Polymers|         |               |
-| Class 14         | 12/04 | Phase Separation and Self Assembly|         |     HW4       |
+| Class 12         | 12/06 | Chemical engineering student panel (TBD) |         |               |
+| Class 13         | 12/08 | Polymers |         |               |
+| Class 14         | 12/10 | Phase Separation and Self Assembly |         |     HW4       |
 
 ## Additional Resources  
 See these additonal links for more in depth explanations of important topics:  
