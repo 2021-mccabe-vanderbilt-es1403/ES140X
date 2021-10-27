@@ -17,5 +17,7 @@ dependencies:
   - ipywidgets
   - hoomd
   - mbuild  
+  - nglview
+  - mdanalysis  
   - pip:
     - chempy
