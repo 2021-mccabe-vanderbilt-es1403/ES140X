@@ -59,18 +59,18 @@ The link to this course's Zoom classrooms can be found in Brightspace.
 | Class 2          | 11/03 | Bug Fixing Day |       |               |
 | Class 3          | 11/05 | Python practices and examples |  HW1     |               |
 | **Week 2**     |         | **Intro to Thermodynamics** |         |               |
-| No Class         | 11/08 | Ideal gas law |         |               |
-| Class 4          | 11/10 | Non-ideal gases |         |               |
-| Class 5          | 11/12 | Solids, liquids, and gases  | HW2 | HW1 |
+| No Class         | 11/08 | No class AICHE |         |               |
+| Class 4          | 11/10 | Ideal gas law |         |               |
+| Class 5          | 11/12 |  Non-ideal gases | HW2 | HW1 |
 | **Week 3**     |         | **Intro to Reaction Engineering** |         |               | 
-| Class 6          | 11/15 | Kinetics |         |               |
-| Class 7          | 11/17 | Reaction rates and equilibria |         |               |
-| Class 8          | 11/19 | Multiple Reactions |  HW3       |    HW2     |
+| Class 6          | 11/15 | Solids, liquids, and gases |         |               |
+| Class 7          | 11/17 | Kinetics |         |               |
+| Class 8          | 11/19 | Reaction rates and equilibria |  HW3       |    HW2     |
 | **NO CLASSES THANKSGIVING BREAK** |
 | **Week 4**     |         | **Intro to Mass and Energy Transport** |         |               | 
 | Class 9          | 11/29 | Energy Transport |         |               |
 | Class 10         | 12/01 | Mass Transport |         |               |
-| Class 11         | 12/03 | Transport 3 |     HW4    |       HW3        |
+| Class 11         | 12/03 | Kane Jennings Lecture |     HW4    |       HW3        |
 | **Week 5**     |         | **Applications** |         |               |
 | Class 12         | 12/06 | Chemical engineering student panel (TBD) |         |               |
 | Class 13         | 12/08 | Polymers |         |               |
