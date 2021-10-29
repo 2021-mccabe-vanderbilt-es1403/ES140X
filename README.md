@@ -64,7 +64,7 @@ VMD is a molecular visualization software. It can be used to visualise simulatio
 | Class 6          | 11/15 | Solids, liquids, and gases |         |               |
 | Class 7          | 11/17 | Kinetics |         |               |
 | Class 8          | 11/19 | Reaction rates and equilibria |  HW3       |    HW2     |
-| **NO CLASSES THANKSGIVING BREAK** |
+| **** THANKSGIVING BREAK**** |
 | **Week 4**     |         | **Intro to Mass and Energy Transport** |         |               | 
 | Class 9          | 11/29 | Energy Transport |         |               |
 | Class 10         | 12/01 | Mass Transport |         |               |
