@@ -19,7 +19,7 @@ Zoom links can be found in Brightspace
 
 ## [Before coming to the first class](instructions/create_github_account.md)
 
-Students should create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). You can receive the detail instruction be following the link in this header. 
+Students should create a GitHub account (if you do not have one already) and then email your GitHub username to Dr. M<sup>c</sup>Cabe and the TA (Cal Craven). Instruction on how to set up your github accout can be found by following the link in this header (click on Before coming to the first class). 
 <br/>
 
 
