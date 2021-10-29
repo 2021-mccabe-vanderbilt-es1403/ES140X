@@ -68,9 +68,9 @@ VMD is a molecular visualization software. It can be used to visualise simulatio
 | **Week 4**     |         | **Intro to Mass and Energy Transport** |         |               | 
 | Class 9          | 11/29 | Energy Transport |         |               |
 | Class 10         | 12/01 | Mass Transport |         |               |
-| Class 11         | 12/03 | Kane Jennings Lecture |     HW4    |       HW3        |
+| Class 11         | 12/03 | ChBE Student Panel |     HW4    |       HW3        |
 | **Week 5**     |         | **Applications** |         |               |
-| Class 12         | 12/06 | Chemical engineering student panel (TBD) |         |               |
+| Class 12         | 12/06 | Kane Jennings Lecture |         |               |
 | Class 13         | 12/08 | Polymers |         |               |
 | Class 14         | 12/10 | Phase Separation and Self Assembly |         |     HW4       |
 
