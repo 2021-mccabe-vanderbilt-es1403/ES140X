@@ -30,27 +30,25 @@ Complete these instructions after your first class and before your second class 
 
 **Be aware that this can take some time, so start earlier to catch bugs and get help from your TA** <br/>
 
-To participate in this class effectively, students will also need to create set up an Anaconda environment in their computer.
-The Anaconda environment will help manage all the softwares used in this course.
-The detailed instructions for those can be found by following the link for what type of computer you will be using.
+To participate in this class effectively, students will also need to set up an Anaconda environment on their computer.
+The Anaconda environment will help manage all the software packages used in this course.
+Detailed instructions can be found by following the links above for the type of computer you will be using.
 
 ## Install Etomica
 Complete these instructions after your first class and before your second class (11/01-11/03). <br/>
 [Mac Users](instructions/install_etomica_MacOS.md) <br/>
 [Windows and Linux Users](instructions/install_etomica_Windows.md) <br/>
 
-We will run some simulations using a learning module called etomica developed from the University of Buffalo. Here is a link to the website if you're curious about what it can do http://www.etomica.org/app/modules/
+We will run some simulations using a learning module called etomica developed by Professor David Kofke at the University of Buffalo. Here is a link to the website if you're curious about what it can do http://www.etomica.org/app/modules/
 
 ## Install VMD
 Complete these instructions after your first class and before your second class (11/01-11/03). <br/>
 [Mac Users](instructions/install_VMD_MacOS.md) <br/>
 [Windows and Linux Users](instructions/install_VMD_Windows.md) <br/>
 
-VMD is a molecular visualization software. We can use it to look at simulation data as a video editing software. We're going to use this to visualize some of the complex behavior found in polymers. More information can be found at https://www.ks.uiuc.edu/Research/vmd/
+VMD is a molecular visualization software. It can be used to visualise simulation data as a video editing software. We're going to use this to visualize some of the complex behavior found in polymers. More information can be found at https://www.ks.uiuc.edu/Research/vmd/
 
 ## Lectures
-
-The link to this course's Zoom classrooms can be found in Brightspace.
 
 |                       | Date | Lecture | HW Assigned | HW Due |
 | :--------------- |:-------:|:----------:|:------:|:-----------:|
