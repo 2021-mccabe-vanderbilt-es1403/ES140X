@@ -51,7 +51,7 @@ Anaconda is a free, open-source distribution of the Python and R programming lan
 2. Install miniconda from the downloaded file  
 3. In your terminal, download and change into this repository (ES140X).
 If you followed the above [instruction](#Download-this-repository) and put this repository at your home directory, you can change into that folder by  
-`cd ~/ES140X`
+`cd ~/ES1403_class/ES140X`
 4. If you don’t know how to do this, make sure you watch the video labeled `classroom_walkthrough.mp4` from Brightspace before continuing.
 5. Create and activate a new conda environment by typing in the terminal window:
     `conda env create -f environment.yml`  
